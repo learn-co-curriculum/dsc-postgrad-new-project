@@ -139,7 +139,7 @@ If all else fails, you can flip a coin or roll a die to choose among the remaini
 
 Once you've picked your project, you'll have enough information to write up a project plan. While there will certainly be adjustments as you go, having a plan to start from will help you start figuring out the path to completion. Project management is a valuable skill in the workplace, so take this opportunity to intentionally develop this skill.
 
-We recommend you include the following elements in your project plan:
+We recommend that you put your project plan in writing, rather than just keeping it in your head. Doing so will force you to clarify your plans and will save you time later when it's time to write up our project. We have created a template for your [DS Project Plan][], including the following elements:
 
 1. Project Overview
 2. Deliverables
@@ -164,20 +164,39 @@ Getting a clear sense of your deliverables is necessary for creating and stickin
 - Blog and/or social media post
 - Presentation slides and/or recording
 - Web app
+- Interactive visualizations
 - Article for a website or journal
 
 When choosing deliverables, be as specific as you can about the content of those deliverables. For example, if you plan to build a web app, be specific about the functionality it should have. If you plan to write an article, specify the length and where you plan to submit it.
 
 **Activity:** Add your deliverables to your [DS Project Plan][], including as much detail as possible.
 
+### Timeline
+
+Your timeline should help you make sure that you are on track to produce your deliverables. By recording your intended timeline and checking in with it weekly, you can see if you are making more or less progress than expected and adjusting the timeline or the way you are working. We recommend that you create a weekly timeline containing the following:
+
+- Activities for each week
+- Intermediate deliverables - pieces of the final deliverable to be completed
+- Deadline for MVP of each deliverable
+- Deadline for complete version of each deliverable
+
+We recommend starting with the final deadline, and working backwards from there - this will help you think about a realistic schedule of intermediate steps.
+
+**Activity:** Add a weekly timeline to your [DS Project Plan][].
 
 ### Evaluation
 
-If you plan to create a GitHub repository and/or presentation, we recommend you use the [DS Capstone Rubric][] to evaluate them.
+How will you know if your work was good? Figuring this out in advance will help keep you on track to produce high-quality work that meets your goals. By knowing the target you are trying to hit in advance, you will make choices along the way to help you get there.
+
+- If you plan to create a GitHub repository and/or presentation, we recommend you use the [DS Capstone Rubric][] to evaluate them.
+- For an article or post, set a goal for length, publication quality, or reader engagement.
+- For a web app or interactive visualization, set a goal for features, usage, or performance.
+
+**Activity:** Add your plan for evaluating your work in [DS Project Plan][].
 
 ## Summary
 
-***TO BE WRITTEN***
+Starting your next DS project is like an epic journey. Once you know your motivations, you embark on a journey to achieve what you want. You prepare everything you need, set your destination, sketch out a route, and head off. The more you can do to set yourself up with a clear path, the better able you will be to reach your goal. While this might seem like a lot more work, this is the sort of project preparation that enables substantial projects to be successful.
 
 [DS Post-Grad Roadmap]: https://github.com/learn-co-curriculum/dsc-postgrad-roadmap
 [Potential Project Tracker]: https://docs.google.com/spreadsheets/d/1kh3EoFcQH6aFrHALeYRVId5TKXh-StCLyRafmx5BDfg/copy
