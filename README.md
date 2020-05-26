@@ -63,7 +63,7 @@ Here is an example of a rough week-by-week timeline aligned with the Month-by-Mo
 - Month 3, Week 2: Complete "Reach Out" (4 hours)
 - Month 3, Week 3: Begin "Weigh Pros and Cons" (4 hours)
 - Month 3, Week 4: Complete "Weigh Pros and Cons" (3 hours) and "Make Your Choice" (3 hours)
-- Month 4, Week 1: Complete "Project Plan" (5 hours) and "Problem Definition" (15 hours)
+- Month 4, Week 1: Complete "Project Plan" (5 hours) and work on project according to your Project Plan (15 hours)
 - Each week thereafter: Work on project according to your Project Plan (20 hours)
 
 **Activity:** Enter your rough timeline into your calendar of choice. We recommend using [Google Calendar][], but feel free to use another program. [Set up recurring events][] so activities occur at a regular time without having to copy-and-paste, and you can edit individual occurrences as needed. You can even [add reminders][] to help you avoid forgetting.
