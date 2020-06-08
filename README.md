@@ -4,9 +4,9 @@
 
 Congratulations, you are now ready to start your first complete data science project all on your own!! You have demonstrated that you can do a complete project with your Capstone - now you will need to do it without structure or feedback from an instructor. This lesson will give you some recommendations about how to go about it to help your project be successful.
 
-## Learning Objectives
+## Objectives
 
-You will be able to...
+You will be able to:
 
 - Choose a project that will achieve your goals
 - Create a project plan to guide your work
