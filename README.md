@@ -203,6 +203,7 @@ Starting your next DS project is like an epic journey. Once you know your motiva
 [Potential Project Tracker]: https://docs.google.com/spreadsheets/d/1kh3EoFcQH6aFrHALeYRVId5TKXh-StCLyRafmx5BDfg/copy
 [DataKind]: https://www.datakind.org/
 [Code for America]: https://brigade.codeforamerica.org/about
+[Omdena]: https://www.omdena.com/
 [Kaggle]: https://www.kaggle.com/
 [Top Competitive Data Science Platforms other than Kaggle]: https://towardsdatascience.com/top-competitive-data-science-platforms-other-than-kaggle-2995e9dad93c
 [DrivenData]: https://www.drivendata.org/
