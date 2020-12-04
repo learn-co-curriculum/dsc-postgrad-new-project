@@ -79,8 +79,9 @@ Choosing the right project is critically important to your project's success. By
 There are many open projects that you may be able to join. Here are four sources for you to consider:
 
 - **Community projects** let you use your data science skills in service of a real-world project that a specific community has identified as a need. These projects may not be well-defined or funded, but can help motivate you because you know there is a constituent eager for your work. These can be especially rewarding when they are done in service of a cause you care about.
-  - [DataKind][] coordinates pairs data scientists with non-profits that need their help with projects.
+  - [DataKind][] pairs data scientists with non-profits that need their help with projects.
   - [Code for America][] organizes local groups of coders to work on projects addressing civic issues.
+  - [Omdena][] coordinates collaborative and well-structured AI projects for volunteer data scientists around the world.
 - **Competition projects** let you engage in data science in a community of peers who support you via friendly competition. We recommend working on an active competition and finding teammates who will collaborate with you, either from your cohort or through Kaggle. Placing highly in a competition is something you can put on your resume and can even provide a cash reward!
   - [Kaggle][] is the most popular DS competition site, with many active competitions, users, and learning resources.
   - [DrivenData][] is a DS competition site focused on projects for social good.
